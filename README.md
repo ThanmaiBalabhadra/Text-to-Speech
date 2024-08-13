@@ -31,4 +31,4 @@ Vocalizelt is a text-to-speech (TTS) software designed to convert written text i
 
 ### Demo
 
-[Link to live demo](#) _(https://frabjous-faloodeh-ec7e1e.netlify.app/)_
+[Link to live demo](#) _https://frabjous-faloodeh-ec7e1e.netlify.app/
