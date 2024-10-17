@@ -14,6 +14,7 @@ Vocalizelt is a text-to-speech (TTS) software designed to convert written text i
 - HTML
 - CSS
 - JavaScript
+- Web Speech API
 
 ### How to Use
 
