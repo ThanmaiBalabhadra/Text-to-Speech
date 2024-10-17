@@ -14,7 +14,7 @@ Vocalizelt isa web-based application that converts written text into spoken word
 - CSS
 - JavaScript
 - Web Speech API
--Netlify (Deployment)
+- Netlify (Deployment)
 ### How to Use
 
 1.Open the Application: Launch the application in your web browser.
