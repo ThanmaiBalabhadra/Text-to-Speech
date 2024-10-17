@@ -3,10 +3,10 @@
 Vocalizelt isa web-based application that converts written text into spoken words using the Web Speech API. The project features a user-friendly interface with customizable speech settings, enhancing accessibility and user experience.The name suggests a focus on vocal output, likely with features tailored for clear, natural-sounding speech synthesis. Here are some potential features and aspects you might find in Vocalizelt:
 
 ### Features
--Customize speech speed, pitch, and volume.
--Features high-quality, expressive speech synthesis.
--Supports integration via APIs and browser extensions.
--Includes screen reader compatibility and text highlighting.
+- Customize speech speed, pitch, and volume.
+- Features high-quality, expressive speech synthesis.
+- Supports integration via APIs and browser extensions.
+- Includes screen reader compatibility and text highlighting.
 
 ### Technologies Used
 
