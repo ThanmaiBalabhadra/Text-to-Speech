@@ -15,7 +15,7 @@ Vocalizelt is a text-to-speech (TTS) software designed to convert written text i
 - CSS
 - JavaScript
 - Web Speech API
-
+-Netlify(Deployment)
 ### How to Use
 
 1.Open the Application: Launch the application in your web browser.
@@ -32,4 +32,4 @@ Vocalizelt is a text-to-speech (TTS) software designed to convert written text i
 
 ### Demo
 
-[Link to live demo] - https://frabjous-faloodeh-ec7e1e.netlify.app/
+[Link to live demo] - https://vocalizelt.netlify.app/
